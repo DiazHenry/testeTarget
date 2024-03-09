@@ -1,20 +1,9 @@
 # Teste Target 
-```python
-def funcao(param1, param2):
-  """
-  Essa função faz algo.
+```python class="copy-to-clipboard"
+def hello_world():
+    print("Hello, world!")
 
-  Args:
-      param1: O primeiro parâmetro.
-      param2: O segundo parâmetro.
-
-  Returns:
-      Algo.
-  """
-
-  # Faz algo com os parâmetros.
-
-  return algo
+hello_world()
 
 //A resposta da primeira pergunta eh 13 para ambas as variaveis K e SOMA, ja que ambas foram instanciadas como 0 e alem do processamento ser SINCRONO
 """let K = 0;
