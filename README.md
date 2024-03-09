@@ -56,11 +56,11 @@ voltando para minha sala, eu eliminaria o interruptor que ja sei
 de qual sala eh e entao desligaria um interruptor e entao saberia qual controla a luz da minha sala.
 PS: Nao sei se essa solucao seria possivel levando em consideracao a descricao do problema, ja que eu nao consigo ver a luz da minha sala e so posso ir duas vezes a uma das outras duas salas.
 
-function inverterString(str) {
+{function inverterString(str) {
     let stringReversa = "";
     for (let i = str.length - 1; i >= 0; i--) {
         stringReversa += str[i];
     }
-    
     return stringReversa;
+}
 }
