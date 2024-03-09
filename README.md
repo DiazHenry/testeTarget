@@ -1,9 +1,4 @@
 # Teste Target 
-```python class="copy-to-clipboard"
-def hello_world():
-    print("Hello, world!")
-
-hello_world()
 
 //A resposta da primeira pergunta eh 13 para ambas as variaveis K e SOMA, ja que ambas foram instanciadas como 0 e alem do processamento ser SINCRONO
 """let K = 0;
@@ -66,5 +61,6 @@ function inverterString(str) {
     for (let i = str.length - 1; i >= 0; i--) {
         stringReversa += str[i];
     }
+    
     return stringReversa;
 }
