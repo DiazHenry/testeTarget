@@ -1,6 +1,6 @@
 # Teste Target 
 
-//A resposta da primeira pergunta eh 13 para ambas as variaveis K e SOMA, ja que ambas foram instanciadas como 0 e alem do processamento ser SINCRONO
+1) //A resposta da primeira pergunta eh 13 para ambas as variaveis K e SOMA, ja que ambas foram instanciadas como 0 e alem do processamento ser SINCRONO
 ```
 let K = 0;
 let SOMA = 0;
@@ -12,7 +12,7 @@ for (let i = 0; i < 13; i++) {
 ```
 
 
-//Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores |
+2) //Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores |
 //(exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, 
 //ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 ```
@@ -39,6 +39,7 @@ if (isFibonacci(num)) {
     console.log("O número informado não pertence à sequência de Fibonacci.");
 }
 ```
+3)
 a) 1, 3, 5, 7, 9
 
 b) 2, 4, 8, 16, 32, 64, 128
@@ -57,6 +58,8 @@ se ela esquenta e na unica outra sala em que posso ir ela esta apagada, sei que 
 voltando para minha sala, eu eliminaria o interruptor que ja sei
 de qual sala eh e entao desligaria um interruptor e entao saberia qual controla a luz da minha sala.
 PS: Nao sei se essa solucao seria possivel levando em consideracao a descricao do problema, ja que eu nao consigo ver a luz da minha sala e so posso ir duas vezes a uma das outras duas salas.
+
+5)
 ```
 function inverterString(str) {
     let stringReversa = "";
