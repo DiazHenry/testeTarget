@@ -2,13 +2,13 @@
 
 
 //A resposta da primeira pergunta eh 13 para ambas as variaveis K e SOMA, ja que ambas foram instanciadas como 0 e alem do processamento ser SINCRONO
-```let K = 0;
+"""let K = 0;
 let SOMA = 0;
 let indicie = 13;
 for (let i = 0; i < 13; i++) {
   K++;
   SOMA += K;
-}```
+}"""
 
 
 //Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores |
