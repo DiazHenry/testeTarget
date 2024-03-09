@@ -1,6 +1,6 @@
-# testeTarget
+# Teste Target 
 
-//Teste de Henry Dias
+
 //A resposta da primeira pergunta eh 13 para ambas as variaveis K e SOMA, ja que ambas foram instanciadas como 0 e alem do processamento ser SINCRONO
 let K = 0;
 let SOMA = 0;
