@@ -1,5 +1,20 @@
 # Teste Target 
+```python
+def funcao(param1, param2):
+  """
+  Essa função faz algo.
 
+  Args:
+      param1: O primeiro parâmetro.
+      param2: O segundo parâmetro.
+
+  Returns:
+      Algo.
+  """
+
+  # Faz algo com os parâmetros.
+
+  return algo
 
 //A resposta da primeira pergunta eh 13 para ambas as variaveis K e SOMA, ja que ambas foram instanciadas como 0 e alem do processamento ser SINCRONO
 """let K = 0;
