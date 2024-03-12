@@ -53,13 +53,10 @@ e) 1, 1, 2, 3, 5, 8, 13
 f) 2,10, 12, 16, 17, 18, 19, 200
 
 
-4) Eu nao posso ver a lampada da sala em que estou mas imagino que eu a possa tocar. Ligaria dois interruptores e verificaria se a lampada da minha sala esquenta
-se ela esquenta e na unica outra sala em que posso ir ela esta apagada, sei que o interruptor que sobrou liga aquela luz, 
-voltando para minha sala, eu eliminaria o interruptor que ja sei
-de qual sala eh e entao desligaria um interruptor e entao saberia qual controla a luz da minha sala.
-PS: Nao sei se essa solucao seria possivel levando em consideracao a descricao do problema, ja que eu nao consigo ver a luz da minha sala e so posso ir duas vezes a uma das outras duas salas.
+4) Na primeira ida para a sala das lampadas ligaria dois interruptores e dado isso eu saberia que o interruptor que esta desligado controla a unica lampada desligada .
+   Na segunda ida para lampada, eu desligaria mais um interruptor alem do que eu ja soubera qual lampada ele controla e portanto eu saberia qual interruptor controla qual lampada.
 
-5)
+6)
 ```
 function inverterString(str) {
     let stringReversa = "";
