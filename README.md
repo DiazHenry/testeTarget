@@ -58,12 +58,12 @@ f) 2,10, 12, 16, 17, 18, 19, 200
 
 6)
 ```
-function inverterString(str) {
-    let stringReversa = "";
+function stringInverter(str) {
+    let reverseString = "";
     for (let i = str.length - 1; i >= 0; i--) {
-        stringReversa += str[i];
+        reverseString += str[i];
     }
-    return stringReversa;
+    return reverseString;
 }
 ```
 
